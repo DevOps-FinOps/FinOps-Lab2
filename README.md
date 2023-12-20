@@ -7,4 +7,4 @@ https://423.selcdn.ru/kb/abdp.ml_scheme_5rg8u8.png
 
 2. Azure Functions - serverless платформа (с динамическим выделением ресурсов) для запуска написанных клиентом приложений, основанный на сценариях, позволяющих запускать код по расписанию, при загрузке или изменении файлов в хранилище, HTTP-триггере и так далее.
 
-Аналог: Yandex Functions. Поддерживает те же функции, даже набор языков больше (нет PowerShell, зато есть Bash, R, Go, PHP, которых нет у Microsoft, и общие Python, C#, Java, JavaScript).
+Аналог: Yandex Functions. Поддерживает те же функции, даже набор языков больше (нет PowerShell, зато есть Bash, R, Go, PHP, которых нет у Microsoft, и общие Python, C#, Java, JavaScript). Документация такая же подробная, как у Microsoft.
