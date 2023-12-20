@@ -15,4 +15,11 @@ https://423.selcdn.ru/kb/abdp.ml_scheme_5rg8u8.png
 
 4. Azure Logic Apps - платформа для запуска автоматизированных codeless процессов, таких как обработка заказов, электронной почты, передача файлов и т.д. при наступлении определённых условий.
 https://learn.microsoft.com/ru-ru/azure/logic-apps/media/logic-apps-overview/example-enterprise-workflow.png
+
 Аналог: здесь не всё так просто. для автоматизированной отправки электронной почты есть Yandex Cloud Postbox, для некоторых других функций Yandex Cloud Apps, для анализа данных Yandex Query. Но эти платформы не прямые аналоги, так что могут быть функции, доступные только на одной из них.
+
+5. Azure Machine Learning - сервис для управления жизненным циклом (создания, обучения, мониторинга, визуализации) моделей машинного обучения по методологии [MLOps] с помощью пайплайнов.
+https://learn.microsoft.com/en-us/azure/machine-learning/media/overview-what-is-azure-machine-learning/overview-ml-development-lifecycle.png
+
+Аналог: ML-платформа Selectel. По функционалу они схожи, обе могут работать на базе Kubernetes-кластера как serverless, так и на выделенном сервере (в Azure это называется compute cluster). 
+https://cdn.selectel.ru/site/img/ml-scheme.d2f6b9b.svg
