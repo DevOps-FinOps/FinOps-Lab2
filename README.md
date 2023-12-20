@@ -13,4 +13,6 @@ https://423.selcdn.ru/kb/abdp.ml_scheme_5rg8u8.png
 
 Аналог: Менеджер секретов Selectel. Функции те же, центры сертификации (certificate authority) другие.
 
-
+4. Azure Logic Apps - платформа для запуска автоматизированных codeless процессов, таких как обработка заказов, электронной почты, передача файлов и т.д. при наступлении определённых условий.
+https://learn.microsoft.com/ru-ru/azure/logic-apps/media/logic-apps-overview/example-enterprise-workflow.png
+Аналог: здесь не всё так просто. для автоматизированной отправки электронной почты есть Yandex Cloud Postbox, для некоторых других функций Yandex Cloud Apps, для анализа данных Yandex Query. Но эти платформы не прямые аналоги, так что могут быть функции, доступные только на одной из них.
