@@ -45,4 +45,9 @@ https://cdn.selectel.ru/site/img/ml-scheme.d2f6b9b.svg
 10. Azure Site Recovery - механизм переноса инфраструктуры в другой регион при сбое. Правда, только виртуалки и сервера - PaaS и SaaS в сделку не входят.
 https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/site-recovery_prop1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1810&qlt=100&fmt=png-alpha&fit=constrain
 
-Аналог: здесь VK Cloud нам может помочь. У него есть решение Disaster Recovery, которое позволяет работать с виртуалками из других облачных сервисов или даже selfhosted.
+Аналог: здесь VK Cloud нам может помочь. У него есть аналогичное решение Disaster Recovery, которое позволяет работать с виртуалками из других облачных сервисов или даже selfhosted.
+
+11. Azure QnA Maker - сервис, позволяющий создать чат-бота, отвечающего на вопросы с помощью базы знаний.
+https://learn.microsoft.com/en-us/azure/ai-services/qnamaker/media/qnamaker-overview-learnabout/bot-chat-with-qnamaker.png
+
+Аналог: прямого нет. Такой сервис можно без проблем написать и захостить самостоятельно, но такого красивого low-code решения, как в Azure, отечественные провайдеры не предлагают. Впрочем, и Azure этот сервис собирается в 2025 году свернуть.
