@@ -1,4 +1,5 @@
 # Аналитическая лабораторная работа 2 - миграция из Azure в отечественные сервисы
+Команда: Париш Павел (капитан), Клопов Михаил, Буров Глеб
 Была дана таблица Excel, из которой нам нужна только первая колонка, в ней было название сервиса Azure, которому нужно подобрать отечественный аналог. Вот какие сервисы в ней были:
 1. Microsoft Dedicated SQL Pool (ранее Microsoft SQL Warehouse) - сервис аналитики больших данных, предоставляющий загрузку, хранение данных, обучение моделей и анализ данных с их помощью. Интегрирован с СУБД Microsoft SQL Server. Используются технологии Apache Hadoop и Spark (фреймворки распределенных вычислений), PolyBase (позволяет запрашивать данные из БД и S3-хранилищ), Transact-SQL (процедурное расширение SQL).   
 https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/media/sql-data-warehouse-overview-what-is/data-warehouse-solution.png
