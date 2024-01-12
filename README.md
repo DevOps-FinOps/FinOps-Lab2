@@ -97,4 +97,23 @@ https://learn.microsoft.com/en-us/azure/ai-services/qnamaker/media/qnamaker-over
 
 15.4. N - виртуалки с видеокартами.
 
-Вывод: миграция из Azure на российские облачные провайдеры - задача крайне проблемная. Каких-то сервисов нет вообще, другие разбросаны по разным провайдерам и их между собой никак не интегрировать.
+Можно подвести итоги. Пусть будет 3 балла за полную, feature-parity замену, 2 за имеющую большую часть основных функций, 1 за кастрированную, 0 - если замены нет вообще.
+
+Сервис Azure | Платформа | Сервис | Балл 
+ ------|  ------ |  ------|  ------
+ Dedicated SQL Pool|Selectel|Платформа обработки данных|3
+  Functions|Yandex Cloud|Functions|3
+Key Vault|Selectel|Менеджер секретов|3
+Logic Apps|Yandex Cloud|Postbox, Apps, Query|2
+Machine Learning|Selectel|ML-платформа|3
+Visual Studio App Center|Yandex Cloud|Managed Service for GitLab|1
+VPN Gateway|Selectel|UserGate VE|3
+Traffic Manager|Selectel|Балансировщик нагрузки |3
+Firewall|Selectel|UserGate VE + Stream Antivirus + Advanced Threat Protection|3
+Site Recovery|VK Cloud|Disaster Recovery|3
+Cognitive Services QnA Maker|X|X|0
+SignalR|X|X|0
+EventGrid|X|X|0
+IoT Hub|Yandex Cloud|IoT Core|1
+Virtual Machines | Selectel|Облачные серверы|3
+Вывод: миграция из Azure на российские облачные провайдеры - задача довольно проблемная. Каких-то сервисов нет вообще, другие разбросаны по разным провайдерам и их между собой никак не интегрировать.
